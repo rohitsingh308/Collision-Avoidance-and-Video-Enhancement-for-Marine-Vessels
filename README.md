@@ -32,11 +32,4 @@ This project is an AI-powered real-time **collision avoidance system** designed 
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/rohitsingh308/Collision-Avoidance-and-Video-Enhancement-for-Marine-Vessels.git
-   cd Collision-Avoidance-and-Video-Enhancement-for-Marine-Vessels
-
 
